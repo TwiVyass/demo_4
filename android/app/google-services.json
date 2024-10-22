@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92903673939",
+    "project_id": "trial-apghar",
+    "storage_bucket": "trial-apghar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92903673939:android:c1d68085a6f505efdbb6a6",
+        "android_client_info": {
+          "package_name": "com.apghar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeqX808-XYmfPhxGQ6Dns8tSRuZnJjcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
